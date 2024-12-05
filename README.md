@@ -21,4 +21,5 @@ Upon accessing the website, user is able to either add a new user, record a refe
 - Run **php artisan key:generate**
 - Run **php artisan migrate**
 - Run **php artisan serve**
+
 That's it: launch the main URL.
